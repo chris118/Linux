@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Demon.dir/main.cpp.o  -o Demon  -L./Math  -L./Other  -lmymath -lother -Wl,-rpath,./Math -Wl,-rpath,./Other 

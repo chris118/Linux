@@ -1,0 +1,3 @@
+/Users/admin/Source/Linux/cmake/Demo1/CMakeFiles/edit_cache.dir
+/Users/admin/Source/Linux/cmake/Demo1/CMakeFiles/rebuild_cache.dir
+/Users/admin/Source/Linux/cmake/Demo1/CMakeFiles/Demo.dir

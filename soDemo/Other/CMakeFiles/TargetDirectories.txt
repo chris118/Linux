@@ -1,0 +1,3 @@
+/Users/admin/source/cpp/soDemo/Other/CMakeFiles/edit_cache.dir
+/Users/admin/source/cpp/soDemo/Other/CMakeFiles/rebuild_cache.dir
+/Users/admin/source/cpp/soDemo/Other/CMakeFiles/other.dir

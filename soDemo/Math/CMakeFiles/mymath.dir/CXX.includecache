@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/source/cpp/soDemo/Math/math.cpp
+math.h
+/Users/admin/source/cpp/soDemo/Math/math.h
+../Other/other.h
+/Users/admin/source/cpp/soDemo/Other/other.h
+
+/Users/admin/source/cpp/soDemo/Math/math.h
+
+/Users/admin/source/cpp/soDemo/Other/other.h
+

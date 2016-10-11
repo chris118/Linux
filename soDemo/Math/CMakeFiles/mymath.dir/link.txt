@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -dynamiclib -Wl,-headerpad_max_install_names  -o libmymath.dylib -install_name /Users/admin/source/cpp/soDemo/Math/libmymath.dylib CMakeFiles/mymath.dir/math.cpp.o  -L../Other -lother -Wl,-rpath,../Other 

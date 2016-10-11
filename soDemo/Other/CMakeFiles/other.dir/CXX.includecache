@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/source/cpp/soDemo/Other/other.cpp
+math.h
+/Users/admin/source/cpp/soDemo/Other/math.h
+iostream
+-
+

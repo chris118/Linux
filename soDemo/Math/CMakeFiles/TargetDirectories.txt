@@ -1,0 +1,3 @@
+/Users/admin/source/cpp/soDemo/Math/CMakeFiles/edit_cache.dir
+/Users/admin/source/cpp/soDemo/Math/CMakeFiles/rebuild_cache.dir
+/Users/admin/source/cpp/soDemo/Math/CMakeFiles/mymath.dir

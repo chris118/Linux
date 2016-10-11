@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/source/cpp/soDemo/Math/math.h
+
+/Users/admin/source/cpp/soDemo/main.cpp
+Math/math.h
+/Users/admin/source/cpp/soDemo/Math/math.h
+stdio.h
+-
+
